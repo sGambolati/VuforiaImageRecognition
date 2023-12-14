@@ -1,11 +1,11 @@
 repo_name: sGambolati/VuforiaImageRecognition
-report_id: 8c35cd036cd033caa657b2aa21c1e21b
+report_id: f480af5151d1e49f354ee037046b3e53
 repo_type: Public
-timestamp: '2023-11-09T17:17:48+00:00'
+timestamp: '2023-12-14T09:46:28+00:00'
 requested_by: sGambolati
 provider: github
 branch: master
-detected_tools_count: 9
+detected_tools_count: 11
 tools:
 - name: ASP.NET
   description: An open source web framework for building modern web apps and services
@@ -17,8 +17,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: VuforiaImageSample.Editor.csproj
-  detection_source: VuforiaImageSample.csproj
+  detection_source_url: https://github.com/sGambolati/VuforiaImageRecognition/blob/master/VuforiaImageSample.Editor.csproj
+  detection_source: VuforiaImageSample.Editor.csproj
   last_updated_by: Sebastian Ariel Gambolati
   last_updated_on: 2017-05-19 13:54:55.000000000 Z
 - name: C lang
@@ -81,8 +81,19 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: VuforiaImageSample.Editor.csproj
-  detection_source: VuforiaImageSample.csproj
+  detection_source_url: https://github.com/sGambolati/VuforiaImageRecognition/blob/master/VuforiaImageSample.Editor.csproj
+  detection_source: VuforiaImageSample.Editor.csproj
+  last_updated_by: Sebastian Ariel Gambolati
+  last_updated_on: 2017-05-19 13:54:55.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: Assets/license_3rdpartynotice.txt
   last_updated_by: Sebastian Ariel Gambolati
   last_updated_on: 2017-05-19 13:54:55.000000000 Z
 - name: Git
@@ -104,5 +115,16 @@ tools:
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
   detection_source: VuforiaImageSample.sln
+  last_updated_by: Sebastian Ariel Gambolati
+  last_updated_on: 2017-05-19 13:54:55.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: Assets/license_3rdpartynotice.txt
   last_updated_by: Sebastian Ariel Gambolati
   last_updated_on: 2017-05-19 13:54:55.000000000 Z
